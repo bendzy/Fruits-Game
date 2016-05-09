@@ -1,22 +1,4 @@
 
-    //if we are playing
-        //yes
-            //reload the page
-        //no
-            //show trails left box
-            //change button to reset
-            //1create random fruit
-
-            //define random step for fruit
-
-            //2move fruit down by one step evrey 30sec
-                    //check if the fruit is too low
-                        //no -> repeat 2
-                        //yes-> any trials left ?
-                            //yes: repeat 1
-                            //no : show game over button text change to start game
-
-
 //slice a fruit
 //play sound
 //expledoe fruit
